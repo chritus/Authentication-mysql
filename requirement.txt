@@ -1,7 +1,3 @@
-Requirements:
-import the following
-
 mysql.connector-python
 Pillow
 tkinker
-image(brando-makes-branding-EYGFG3thfAo-unsplash.jpg)
