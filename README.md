@@ -8,11 +8,11 @@ Upon successful registration, the user data is inserted into the MySQL database.
 Error messages are displayed if any issues occur during the registration process.
 
 How you can run the script:
-Install the required libraries: pip install mysql-connector-python pillow
-Set up a MySQL database with the following details:
-Host: localhost
+1.Install the required libraries: pip install mysql-connector-python pillow
+2.Set up a MySQL database with the following details:
+{Host: localhost
 User: root
-Password: 123prince
+Password: 123prince}
 
 Files:
 signup.py: Main Python script containing the user signup application code.
