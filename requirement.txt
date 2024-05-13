@@ -1,4 +1,5 @@
 Requirements:
+import the following
 
 mysql.connector-python
 Pillow
