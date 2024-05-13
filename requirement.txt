@@ -1,0 +1,6 @@
+Requirements:
+
+mysql.connector-python
+Pillow
+tkinker
+image(brando-makes-branding-EYGFG3thfAo-unsplash.jpg)
